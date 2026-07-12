@@ -1,2 +1,25 @@
-# 35de8e63-dating-relationships-pricing
-Every dating relationships professionals needs this — most just don't know it yet.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Dating &amp; Relationships Pricing Calculator And Quote Builder — fully configured and ready to use - Fully editable: all fi
+# Dating & Relationships Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A14n12D3o86xybzScZK2E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A14n12D3o86xybzScZK2E)
+
